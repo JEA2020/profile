@@ -59,6 +59,11 @@ a {
   transition: 0.7s;
  }
 
+ .btn-blue:hover {
+  opacity: 0.7;
+  color: white;
+ }
+
 .img-circle {
   border-radius: 50%;
 }
